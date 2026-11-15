@@ -1,6 +1,10 @@
+本仓库包含来自 midasmatterhorn/artcraft-skills 的技能正文，按 MIT 许可再分发；
+以下为其版权与许可声明全文（MIT 要求在所有副本或实质性部分中保留）。
+本仓库新增的中文描述、速查表、索引与生成脚本同样以 MIT 许可提供。
+
 MIT License
 
-Copyright (c) 2026 fd325424
+Copyright (c) 2026 midasmatterhorn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
